@@ -8,21 +8,20 @@ My roadmap to study Data Science.
 
 #### Courses
 
-|                             URL                              | Title                                                       |    Status     |
-| :----------------------------------------------------------: | ----------------------------------------------------------- | :-----------: |
-| [DataCamp](https://www.datacamp.com/tracks/python-programmer) | Python Programmer                                           |     To Do     |
-| [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python) | Data Analyst with Python                                    |     To Do     |
-|            [Stepik](https://stepik.org/course/67)            | Программирование на Python                                  | **Completed** |
-|        [Kaggle](https://www.kaggle.com/learn/python)         | Python. Learn the most important language for data science. | **Completed** |
-| [Coursera](https://www.coursera.org/learn/diving-in-python)  | Погружение в Python                                         |     To Do     |
-|        [Kaggle](https://www.kaggle.com/learn/pandas)         | Pandas                                                      | *In Progress* |
+|                             URL                             | Title                                                       |    Status     |
+| :---------------------------------------------------------: | ----------------------------------------------------------- | :-----------: |
+|           [Stepik](https://stepik.org/course/67)            | Программирование на Python                                  | **Completed** |
+|          [Stepik](https://stepik.org/course/3356)           | Практикум по математике и Python                            |     To Do     |
+|        [Kaggle](https://www.kaggle.com/learn/python)        | Python. Learn the most important language for data science. | **Completed** |
+| [Coursera](https://www.coursera.org/learn/diving-in-python) | Погружение в Python                                         |     To Do     |
+|        [Kaggle](https://www.kaggle.com/learn/pandas)        | Pandas                                                      | *In Progress* |
 
 #### Books
 
-| Title                 |    Author     | Status |
-| --------------------- | :-----------: | :----: |
-| Изучаем Python. Том 1 |   Марк Лутц   | To Do  |
-| Serious Python        | Julien Danjou | To Do  |
+| Title                 |    Author     |        Status         |
+| --------------------- | :-----------: | :-------------------: |
+| Изучаем Python. Том 1 |   Марк Лутц   | *In Progress* 155/833 |
+| Serious Python        | Julien Danjou |         To Do         |
 
 ### R
 
@@ -40,7 +39,7 @@ My roadmap to study Data Science.
 | :-------------------------------------------------: | ------------------------------------------ | :----: |
 | [Coursera](https://www.coursera.org/learn/progfun1) | Functional Programming Principles in Scala | To Do  |
 |      [Stepik](https://stepik.org/course/16243)      | Введение в Scala                           | To Do  |
-|                      Интерфейс                      | Язык программирования SCALA                | To Do  |
+|                                                     |                                            |        |
 
 #### Books
 
@@ -167,12 +166,10 @@ My roadmap to study Data Science.
 | :----------------------------------------------------------: | ----------------------------------------------- | :-----------: |
 | [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Специализация Learn SQL Basics for Data Science |     To Do     |
 | [Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Специализация Modern Big Data Analysis with SQL |     To Do     |
-| [DataCamp](https://www.datacamp.com/tracks/sql-fundamentals) | SQL Fundamentals                                |     To Do     |
-| [DataCamp](https://www.datacamp.com/tracks/sql-server-fundamentals) | SQL Server Fundamentals                         |     To Do     |
 |   [Udemy](https://www.udemy.com/the-complete-sql-bootcamp)   | The Complete SQL Bootcamp                       |     To Do     |
 |          [Stepik](https://stepik.org/course/63054)           | Интерактивный тренажер по SQL                   |     To Do     |
-|          [Stepik](https://stepik.org/course/70710)           | Свободное погружение в СУБД                     |     To Do     |
-|           [Stepik](https://stepik.org/course/551)            | Введение в базы данных                          |     To Do     |
+|          [Stepik](https://stepik.org/course/70710)           | Свободное погружение в СУБД                     | *In Progress* |
+|           [Stepik](https://stepik.org/course/551)            | Введение в базы данных                          | *In Progress* |
 |     [Kaggle](https://www.kaggle.com/learn/intro-to-sql)      | Intro to SQL                                    | *In Progress* |
 |     [Kaggle](https://www.kaggle.com/learn/advanced-sql)      | Advanced SQL                                    | *In Progress* |
 
