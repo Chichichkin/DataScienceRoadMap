@@ -14,22 +14,24 @@ My roadmap to study Data Science.
 |          [Stepik](https://stepik.org/course/3356)           | Практикум по математике и Python                            |     To Do     |
 |        [Kaggle](https://www.kaggle.com/learn/python)        | Python. Learn the most important language for data science. | **Completed** |
 | [Coursera](https://www.coursera.org/learn/diving-in-python) | Погружение в Python                                         |     To Do     |
-|        [Kaggle](https://www.kaggle.com/learn/pandas)        | Pandas                                                      | *In Progress* |
+|        [Kaggle](https://www.kaggle.com/learn/pandas)        | Pandas                                                      |     To Do     |
 
 #### Books
 
 | Title                 |    Author     |        Status         |
 | --------------------- | :-----------: | :-------------------: |
-| Изучаем Python. Том 1 |   Марк Лутц   | *In Progress* 155/833 |
+| Изучаем Python. Том 1 |   Марк Лутц   | *In Progress* 200/833 |
 | Serious Python        | Julien Danjou |         To Do         |
 
 ### R
 
 #### Courses
 
-|                           URL                            | Title        | Status |
-| :------------------------------------------------------: | ------------ | :----: |
-| [DataCamp](https://www.datacamp.com/tracks/r-programmer) | R Programmer | To Do  |
+|                   URL                   | Title                        |    Status     |
+| :-------------------------------------: | ---------------------------- | :-----------: |
+| [Stepik](https://stepik.org/course/497) | Основы программирования на R | *In Progress* |
+| [Stepik](https://stepik.org/course/129) | Анализ данных в R            |     To Do     |
+| [Stepik](https://stepik.org/course/724) | Анализ данных в R. Часть 2   |     To Do     |
 
 ### Scala
 
@@ -52,12 +54,11 @@ My roadmap to study Data Science.
 
 #### Courses
 
-|                             URL                              | Title                                                      |    Status     |
-| :----------------------------------------------------------: | ---------------------------------------------------------- | :-----------: |
-|       [GeekBrains](https://geekbrains.ru/courses/513)        | Алгоритмы и структуры данных на Python. Интерактивный курс |     To Do     |
-|           [Stepik](https://stepik.org/course/217)            | Алгоритмы: теория и практика. Методы                       | *In Progress* |
-|           [Stepik](https://stepik.org/course/1547)           | Алгоритмы: теория и практика. Структуры данных             | *In Progress* |
-| [Udemy](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews) | Python for Data Structures, Algorithms, and Interviews!    |     To Do     |
+|                             URL                              | Title                                                   |    Status     |
+| :----------------------------------------------------------: | ------------------------------------------------------- | :-----------: |
+|           [Stepik](https://stepik.org/course/217)            | Алгоритмы: теория и практика. Методы                    | *In Progress* |
+|           [Stepik](https://stepik.org/course/1547)           | Алгоритмы: теория и практика. Структуры данных          | *In Progress* |
+| [Udemy](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews) | Python for Data Structures, Algorithms, and Interviews! |     To Do     |
 
 #### Books
 
@@ -85,10 +86,10 @@ My roadmap to study Data Science.
 | [Udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp) | Python for Data Science and Machine Learning Bootcamp       |     To Do     |
 | [Udemy](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on) | Data Science, Deep Learning, & Machine Learning with Python |     To Do     |
 | [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) | Intro to Machine Learning                                   | **Completed** |
-| [Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning) | Intermediate Machine Learning                               | *In Progress* |
-| [Kaggle](https://www.kaggle.com/learn/machine-learning-explainability) | Machine Learning Explainability                             | *In Progress* |
-|  [Kaggle](https://www.kaggle.com/learn/feature-engineering)  | Feature Engineering                                         | *In Progress* |
-| [Kaggle](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | Intro to Game AI and Reinforcement Learning                 | *In Progress* |
+| [Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning) | Intermediate Machine Learning                               |     To Do     |
+| [Kaggle](https://www.kaggle.com/learn/machine-learning-explainability) | Machine Learning Explainability                             |     To Do     |
+|  [Kaggle](https://www.kaggle.com/learn/feature-engineering)  | Feature Engineering                                         |     To Do     |
+| [Kaggle](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | Intro to Game AI and Reinforcement Learning                 |     To Do     |
 
 #### Books
 
@@ -105,14 +106,14 @@ My roadmap to study Data Science.
 
 #### Courses
 
-|                             URL                              | Title                                                      |    Status     |
-| :----------------------------------------------------------: | ---------------------------------------------------------- | :-----------: |
-| [Coursera](https://www.coursera.org/specializations/deep-learning) | Специализация Deep Learning                                |     To Do     |
-|                          NewProLab                           | Deep Learning                                              |     To Do     |
-|           [OpenDataScience](https://dlcourse.ai/)            | Deep Learning на пальцах                                   |     To Do     |
-| [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python |     To Do     |
-| [Udacity](https://www.udacity.com/course/deep-learning-pytorch--ud188) | Intro to Deep Learning with PyTorch                        |     To Do     |
-| [Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning) | Intro to Deep Learning                                     | *In Progress* |
+|                             URL                              | Title                                                      | Status |
+| :----------------------------------------------------------: | ---------------------------------------------------------- | :----: |
+| [Coursera](https://www.coursera.org/specializations/deep-learning) | Специализация Deep Learning                                | To Do  |
+|                          NewProLab                           | Deep Learning                                              | To Do  |
+|           [OpenDataScience](https://dlcourse.ai/)            | Deep Learning на пальцах                                   | To Do  |
+| [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | To Do  |
+| [Udacity](https://www.udacity.com/course/deep-learning-pytorch--ud188) | Intro to Deep Learning with PyTorch                        | To Do  |
+| [Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning) | Intro to Deep Learning                                     | To Do  |
 
 #### Books
 
@@ -129,13 +130,13 @@ My roadmap to study Data Science.
 
 #### Courses
 
-|                             URL                              | Title                                         |    Status     |
-| :----------------------------------------------------------: | --------------------------------------------- | :-----------: |
-| [Coursera](https://www.coursera.org/learn/language-processing) | Natural Language Processing                   |     To Do     |
-| [Coursera](https://www.coursera.org/specializations/natural-language-processing) | Специализация Natural Language Processing     |     To Do     |
-|          [Stepik](https://stepik.org/course/54098)           | Нейронные сети и обработка текста             |     To Do     |
-| [Udemy](https://www.udemy.com/nlp-natural-language-processing-with-python) | NLP - Natural Language Processing with Python |     To Do     |
-| [Kaggle](https://www.kaggle.com/learn/natural-language-processing) | Feature Engineering                           | *In Progress* |
+|                             URL                              | Title                                         | Status |
+| :----------------------------------------------------------: | --------------------------------------------- | :----: |
+| [Coursera](https://www.coursera.org/learn/language-processing) | Natural Language Processing                   | To Do  |
+| [Coursera](https://www.coursera.org/specializations/natural-language-processing) | Специализация Natural Language Processing     | To Do  |
+|          [Stepik](https://stepik.org/course/54098)           | Нейронные сети и обработка текста             | To Do  |
+| [Udemy](https://www.udemy.com/nlp-natural-language-processing-with-python) | NLP - Natural Language Processing with Python | To Do  |
+| [Kaggle](https://www.kaggle.com/learn/natural-language-processing) | Feature Engineering                           | To Do  |
 
 #### Books
 
@@ -167,42 +168,42 @@ My roadmap to study Data Science.
 | [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Специализация Learn SQL Basics for Data Science |     To Do     |
 | [Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Специализация Modern Big Data Analysis with SQL |     To Do     |
 |   [Udemy](https://www.udemy.com/the-complete-sql-bootcamp)   | The Complete SQL Bootcamp                       |     To Do     |
-|          [Stepik](https://stepik.org/course/63054)           | Интерактивный тренажер по SQL                   |     To Do     |
+|          [Stepik](https://stepik.org/course/63054)           | Интерактивный тренажер по SQL                   | *In Progress* |
 |          [Stepik](https://stepik.org/course/70710)           | Свободное погружение в СУБД                     | *In Progress* |
-|           [Stepik](https://stepik.org/course/551)            | Введение в базы данных                          | *In Progress* |
-|     [Kaggle](https://www.kaggle.com/learn/intro-to-sql)      | Intro to SQL                                    | *In Progress* |
-|     [Kaggle](https://www.kaggle.com/learn/advanced-sql)      | Advanced SQL                                    | *In Progress* |
+|           [Stepik](https://stepik.org/course/551)            | Введение в базы данных                          | **Completed** |
+|     [Kaggle](https://www.kaggle.com/learn/intro-to-sql)      | Intro to SQL                                    |     To Do     |
+|     [Kaggle](https://www.kaggle.com/learn/advanced-sql)      | Advanced SQL                                    |     To Do     |
 
 ### Big Data
 
 #### Courses
 
-|                             URL                              | Title                                                        |    Status     |
-| :----------------------------------------------------------: | ------------------------------------------------------------ | :-----------: |
-| [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python                                    |     To Do     |
-|           [Stepik](https://stepik.org/course/150/)           | Hadoop. Система для обработки больших объемов данных         |     To Do     |
-| [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce                                |     To Do     |
-| [Udemy](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data) | Apache Spark 2 with Scala - Hands On with Big Data!          |     To Do     |
-|    [Udemy](https://www.udemy.com/cart/success/294215128/)    | Elasticsearch 7 and the Elastic Stack - In Depth & Hands On! |     To Do     |
-| [Udemy](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning) | Scala and Spark for Big Data and Machine Learning            |     To Do     |
-| [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark) | Spark and Python for Big Data with PySpark                   |     To Do     |
-| [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data) | The Ultimate Hands-On Hadoop - Tame your Big Data!           |     To Do     |
-|     [Kaggle](https://www.kaggle.com/learn/data-cleaning)     | Data Cleaning                                                | *In Progress* |
+|                             URL                              | Title                                                        | Status |
+| :----------------------------------------------------------: | ------------------------------------------------------------ | :----: |
+| [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python                                    | To Do  |
+|           [Stepik](https://stepik.org/course/150/)           | Hadoop. Система для обработки больших объемов данных         | To Do  |
+| [Udacity](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce) | Intro to Hadoop and MapReduce                                | To Do  |
+| [Udemy](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data) | Apache Spark 2 with Scala - Hands On with Big Data!          | To Do  |
+|    [Udemy](https://www.udemy.com/cart/success/294215128/)    | Elasticsearch 7 and the Elastic Stack - In Depth & Hands On! | To Do  |
+| [Udemy](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning) | Scala and Spark for Big Data and Machine Learning            | To Do  |
+| [Udemy](https://www.udemy.com/spark-and-python-for-big-data-with-pyspark) | Spark and Python for Big Data with PySpark                   | To Do  |
+| [Udemy](https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data) | The Ultimate Hands-On Hadoop - Tame your Big Data!           | To Do  |
+|     [Kaggle](https://www.kaggle.com/learn/data-cleaning)     | Data Cleaning                                                | To Do  |
 
 #### Books
 
-| Title                                     |                           Author                            |    Status     |
-| ----------------------------------------- | :---------------------------------------------------------: | :-----------: |
-| Learning Elastic Stack 7.0                |              Pranav Shukla, Sharath Kumar M N               | *In Progress* |
-| Изучаем Spark. Молниеносный анализ данных | Матей Захария, Патрик Венделл, Энди Конвински, Холден Карау | *In Progress* |
+| Title                                     |                           Author                            | Status |
+| ----------------------------------------- | :---------------------------------------------------------: | :----: |
+| Learning Elastic Stack 7.0                |              Pranav Shukla, Sharath Kumar M N               | To Do  |
+| Изучаем Spark. Молниеносный анализ данных | Матей Захария, Патрик Венделл, Энди Конвински, Холден Карау | To Do  |
 
 ### Virtualization
 
 #### Books
 
-| Title                |    Author    |    Status     |
-| -------------------- | :----------: | :-----------: |
-| Использование Docker | Эдриен Моуэт | *In Progress* |
+| Title                |    Author    | Status |
+| -------------------- | :----------: | :----: |
+| Использование Docker | Эдриен Моуэт | To Do  |
 
 ## Mathematics
 
@@ -222,16 +223,16 @@ My roadmap to study Data Science.
 
 #### Courses
 
-|                             URL                              | Title                               | Status |
-| :----------------------------------------------------------: | ----------------------------------- | :----: |
-| [DataCamp](https://www.datacamp.com/tracks/statistics-fundamentals-with-python) | Statistics Fundamentals with Python | To Do  |
-| [Coursera](https://www.coursera.org/learn/probability-theory-basics) | Теория вероятностей для начинающих  | To Do  |
-|           [Stepik](https://stepik.org/course/3089)           | Теория вероятностей                 | To Do  |
-|           [Stepik](https://stepik.org/course/326)            | Математическая статистика           | To Do  |
-|           [Stepik](https://stepik.org/course/76/)            | Основы статистики                   | To Do  |
-|           [Stepik](https://stepik.org/course/524/)           | Основы статистики. Часть 2          | To Do  |
-|          [Stepik](https://stepik.org/course/2152/)           | Основы статистики. Часть 3          | To Do  |
-|          [Stepik](https://stepik.org/course/3089/)           | Теория вероятностей                 | To Do  |
+|                             URL                              | Title                               |    Status     |
+| :----------------------------------------------------------: | ----------------------------------- | :-----------: |
+| [DataCamp](https://www.datacamp.com/tracks/statistics-fundamentals-with-python) | Statistics Fundamentals with Python |     To Do     |
+| [Coursera](https://www.coursera.org/learn/probability-theory-basics) | Теория вероятностей для начинающих  |     To Do     |
+|           [Stepik](https://stepik.org/course/3089)           | Теория вероятностей                 |     To Do     |
+|           [Stepik](https://stepik.org/course/326)            | Математическая статистика           |     To Do     |
+|           [Stepik](https://stepik.org/course/76/)            | Основы статистики                   | **Completed** |
+|           [Stepik](https://stepik.org/course/524/)           | Основы статистики. Часть 2          |     To Do     |
+|          [Stepik](https://stepik.org/course/2152/)           | Основы статистики. Часть 3          |     To Do     |
+|          [Stepik](https://stepik.org/course/3089/)           | Теория вероятностей                 |     To Do     |
 
 #### Books
 
@@ -244,12 +245,12 @@ My roadmap to study Data Science.
 
 #### Courses
 
-|                             URL                              | Title                                          |    Status     |
-| :----------------------------------------------------------: | ---------------------------------------------- | :-----------: |
-| [Coursera](https://www.coursera.org/learn/calculus-and-optimization-for-machine-learning) | Calculus and Optimization for Machine Learning | *In Progress* |
-|            [Stepik](https://stepik.org/course/95)            | ВВедение в математический анализ               |     To Do     |
-|           [Stepik](https://stepik.org/course/716)            | Математический анализ (часть 1)                |     To Do     |
-|           [Stepik](https://stepik.org/course/711)            | Математический анализ (часть 2)                |     To Do     |
+|                             URL                              | Title                                          | Status |
+| :----------------------------------------------------------: | ---------------------------------------------- | :----: |
+| [Coursera](https://www.coursera.org/learn/calculus-and-optimization-for-machine-learning) | Calculus and Optimization for Machine Learning | To Do  |
+|            [Stepik](https://stepik.org/course/95)            | ВВедение в математический анализ               | To Do  |
+|           [Stepik](https://stepik.org/course/716)            | Математический анализ (часть 1)                | To Do  |
+|           [Stepik](https://stepik.org/course/711)            | Математический анализ (часть 2)                | To Do  |
 
 # Visualization
 
@@ -257,11 +258,11 @@ My roadmap to study Data Science.
 
 #### Courses
 
-|                            URL                             | Title                                            |    Status     |
-| :--------------------------------------------------------: | ------------------------------------------------ | :-----------: |
-|     [Udemy](https://www.udemy.com/course/d3jsbasics/)      | D3.js Data Visualization Fundamentals - Hands On |     To Do     |
-| [Kaggle](https://www.kaggle.com/learn/data-visualization)  | Data Visualization                               | *In Progress* |
-| [Kaggle](https://www.kaggle.com/learn/geospatial-analysis) | Geospatial Analysis                              | *In Progress* |
+|                            URL                             | Title                                            | Status |
+| :--------------------------------------------------------: | ------------------------------------------------ | :----: |
+|     [Udemy](https://www.udemy.com/course/d3jsbasics/)      | D3.js Data Visualization Fundamentals - Hands On | To Do  |
+| [Kaggle](https://www.kaggle.com/learn/data-visualization)  | Data Visualization                               | To Do  |
+| [Kaggle](https://www.kaggle.com/learn/geospatial-analysis) | Geospatial Analysis                              | To Do  |
 
 #### Books
 
