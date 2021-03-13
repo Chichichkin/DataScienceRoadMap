@@ -8,13 +8,12 @@ My roadmap to study Data Science.
 
 #### Courses
 
-|                             URL                             | Title                                                       |    Status     |
-| :---------------------------------------------------------: | ----------------------------------------------------------- | :-----------: |
-|           [Stepik](https://stepik.org/course/67)            | Программирование на Python                                  | **Completed** |
-|          [Stepik](https://stepik.org/course/3356)           | Практикум по математике и Python                            |     To Do     |
-|        [Kaggle](https://www.kaggle.com/learn/python)        | Python. Learn the most important language for data science. | **Completed** |
-| [Coursera](https://www.coursera.org/learn/diving-in-python) | Погружение в Python                                         |     To Do     |
-|        [Kaggle](https://www.kaggle.com/learn/pandas)        | Pandas                                                      |     To Do     |
+|                      URL                      | Title                                                       |    Status     |
+| :-------------------------------------------: | ----------------------------------------------------------- | :-----------: |
+|    [Stepik](https://stepik.org/course/67)     | Программирование на Python                                  | **Completed** |
+|   [Stepik](https://stepik.org/course/3356)    | Практикум по математике и Python                            |     To Do     |
+| [Kaggle](https://www.kaggle.com/learn/python) | Python. Learn the most important language for data science. | **Completed** |
+| [Kaggle](https://www.kaggle.com/learn/pandas) | Pandas                                                      |     To Do     |
 
 #### Books
 
@@ -27,28 +26,12 @@ My roadmap to study Data Science.
 
 #### Courses
 
-|                   URL                   | Title                        |    Status     |
-| :-------------------------------------: | ---------------------------- | :-----------: |
-| [Stepik](https://stepik.org/course/497) | Основы программирования на R | *In Progress* |
-| [Stepik](https://stepik.org/course/129) | Анализ данных в R            |     To Do     |
-| [Stepik](https://stepik.org/course/724) | Анализ данных в R. Часть 2   |     To Do     |
-
-### Scala
-
-#### Courses
-
-|                         URL                         | Title                                      | Status |
-| :-------------------------------------------------: | ------------------------------------------ | :----: |
-| [Coursera](https://www.coursera.org/learn/progfun1) | Functional Programming Principles in Scala | To Do  |
-|      [Stepik](https://stepik.org/course/16243)      | Введение в Scala                           | To Do  |
-|                                                     |                                            |        |
-
-#### Books
-
-| Title                                    |                 Author                  | Status |
-| ---------------------------------------- | :-------------------------------------: | :----: |
-| Scala. Профессиональное программирование | Билл Веннерс, Мартин Одерски, Лекс Спун | To Do  |
-| Scala для нетерпеливых                   |              Кей Хорстманн              | To Do  |
+|                             URL                              | Title                        | Status |
+| :----------------------------------------------------------: | ---------------------------- | :----: |
+| [Learning Statistics with R](https://learningstatisticswithr.com/) | Learning Statistics with R   | To Do  |
+|           [Stepik](https://stepik.org/course/497)            | Основы программирования на R | To Do  |
+|           [Stepik](https://stepik.org/course/129)            | Анализ данных в R            | To Do  |
+|           [Stepik](https://stepik.org/course/724)            | Анализ данных в R. Часть 2   | To Do  |
 
 ### Algorithms & Data Structures
 
@@ -57,7 +40,7 @@ My roadmap to study Data Science.
 |                             URL                              | Title                                                   |    Status     |
 | :----------------------------------------------------------: | ------------------------------------------------------- | :-----------: |
 |           [Stepik](https://stepik.org/course/217)            | Алгоритмы: теория и практика. Методы                    | *In Progress* |
-|           [Stepik](https://stepik.org/course/1547)           | Алгоритмы: теория и практика. Структуры данных          | *In Progress* |
+|           [Stepik](https://stepik.org/course/1547)           | Алгоритмы: теория и практика. Структуры данных          |    *To Do*    |
 | [Udemy](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews) | Python for Data Structures, Algorithms, and Interviews! |     To Do     |
 
 #### Books
@@ -67,6 +50,14 @@ My roadmap to study Data Science.
 | Грокаем алгоритмы                                           | Адитья Бхаргава | **Completed** |
 | Совершенный алгоритм. Основы                                |  Тим Рафгарден  |     To Do     |
 | Совершенный алгоритм. Графовые алгоритмы и структуры данных |  Тим Рафгарден  |     To Do     |
+
+
+
+# Data Science
+
+|                             URL                              | Title                                                        |       Status       |
+| :----------------------------------------------------------: | ------------------------------------------------------------ | :----------------: |
+| [Udemy](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/) | The Data Science Course 2021: Complete Data Science Bootcamp | *In Progress:* 20% |
 
 ## Machine Learning
 
@@ -78,13 +69,12 @@ My roadmap to study Data Science.
 | :----------------------------------------------------------: | ----------------------------------------------------------- | :-----------: |
 | [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning                                            |     To Do     |
 | [Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis/) | Специализация Машинное обучение и анализ данных             |     To Do     |
-| [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) | Data Scientist with Python                                  |     To Do     |
-| [DataCamp](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) | Machine Learning Scientist with Python                      |     To Do     |
 |           [OpenDataScience](https://mlcourse.ai/)            | Open Machine Learning Course                                |     To Do     |
 |           [Stepik](https://stepik.org/course/4852)           | Введение в Data Science и машинное обучение                 |     To Do     |
 | [Udacity](https://www.udacity.com/course/intro-to-data-science) | Intro to Data Science                                       |     To Do     |
-| [Udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp) | Python for Data Science and Machine Learning Bootcamp       |     To Do     |
+|    [Udemy](https://www.udemy.com/course/machinelearning/)    | Machine Learning A-Z™: Hands-On Python & R In Data Science  |     To Do     |
 | [Udemy](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on) | Data Science, Deep Learning, & Machine Learning with Python |     To Do     |
+| [Coursera](https://www.coursera.org/professional-certificates/google-data-analytics) | Google Data Analytics Professional Certificate              |     To do     |
 | [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning) | Intro to Machine Learning                                   | **Completed** |
 | [Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning) | Intermediate Machine Learning                               |     To Do     |
 | [Kaggle](https://www.kaggle.com/learn/machine-learning-explainability) | Machine Learning Explainability                             |     To Do     |
@@ -109,10 +99,10 @@ My roadmap to study Data Science.
 |                             URL                              | Title                                                      | Status |
 | :----------------------------------------------------------: | ---------------------------------------------------------- | :----: |
 | [Coursera](https://www.coursera.org/specializations/deep-learning) | Специализация Deep Learning                                | To Do  |
-|                          NewProLab                           | Deep Learning                                              | To Do  |
+| [Udemy](https://www.udemy.com/course/machine-learning-with-tensorflow-for-business-intelligence/) | Deep Learning with TensorFlow 2.0 [2021]                   | To Do  |
 |           [OpenDataScience](https://dlcourse.ai/)            | Deep Learning на пальцах                                   | To Do  |
 | [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | To Do  |
-| [Udacity](https://www.udacity.com/course/deep-learning-pytorch--ud188) | Intro to Deep Learning with PyTorch                        | To Do  |
+|     [Udemy](https://www.udemy.com/course/deeplearning/)      | Deep Learning A-Z™: Hands-On Artificial Neural Networks    | To Do  |
 | [Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning) | Intro to Deep Learning                                     | To Do  |
 
 #### Books
@@ -151,11 +141,12 @@ My roadmap to study Data Science.
 
 #### Courses
 
-|                          URL                           | Title           |    Status     |
-| :----------------------------------------------------: | --------------- | :-----------: |
-| [Kaggle](https://www.kaggle.com/learn/computer-vision) | Computer Vision | *In Progress* |
+|                            URL                             | Title                                                      | Status |
+| :--------------------------------------------------------: | ---------------------------------------------------------- | :----: |
+|   [Kaggle](https://www.kaggle.com/learn/computer-vision)   | Computer Vision                                            | To Do  |
+| [Udemy](https://www.udemy.com/course/computer-vision-a-z/) | Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs | To Do  |
 
-### Reinforcement Learning
+
 
 ## Data Engineering
 
@@ -163,16 +154,14 @@ My roadmap to study Data Science.
 
 #### Courses
 
-|                             URL                              | Title                                           |    Status     |
-| :----------------------------------------------------------: | ----------------------------------------------- | :-----------: |
-| [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Специализация Learn SQL Basics for Data Science |     To Do     |
-| [Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Специализация Modern Big Data Analysis with SQL |     To Do     |
-|   [Udemy](https://www.udemy.com/the-complete-sql-bootcamp)   | The Complete SQL Bootcamp                       |     To Do     |
-|          [Stepik](https://stepik.org/course/63054)           | Интерактивный тренажер по SQL                   | *In Progress* |
-|          [Stepik](https://stepik.org/course/70710)           | Свободное погружение в СУБД                     | *In Progress* |
-|           [Stepik](https://stepik.org/course/551)            | Введение в базы данных                          | **Completed** |
-|     [Kaggle](https://www.kaggle.com/learn/intro-to-sql)      | Intro to SQL                                    |     To Do     |
-|     [Kaggle](https://www.kaggle.com/learn/advanced-sql)      | Advanced SQL                                    |     To Do     |
+|                           URL                            | Title                         |    Status     |
+| :------------------------------------------------------: | ----------------------------- | :-----------: |
+| [Udemy](https://www.udemy.com/the-complete-sql-bootcamp) | The Complete SQL Bootcamp     | **Completed** |
+|        [Stepik](https://stepik.org/course/63054)         | Интерактивный тренажер по SQL |     To Do     |
+|        [Stepik](https://stepik.org/course/70710)         | Свободное погружение в СУБД   |     To Do     |
+|         [Stepik](https://stepik.org/course/551)          | Введение в базы данных        | **Completed** |
+|   [Kaggle](https://www.kaggle.com/learn/intro-to-sql)    | Intro to SQL                  | *In Progress* |
+|   [Kaggle](https://www.kaggle.com/learn/advanced-sql)    | Advanced SQL                  |     To Do     |
 
 ### Big Data
 
@@ -211,13 +200,13 @@ My roadmap to study Data Science.
 
 #### Courses
 
-|                             URL                              | Title                                      |    Status     |
-| :----------------------------------------------------------: | ------------------------------------------ | :-----------: |
-| [Coursera](https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs) | Discrete Math and Analyzing Social Graphs  |     To Do     |
-| [Coursera](https://www.coursera.org/learn/lineynaya-algebra) | Линейная алгебра и аналитическая геометрия | *In progress* |
-| [Coursera](https://www.coursera.org/learn/algebra-lineynaya) | Линейная алгебра (Linear Algebra)          |     To Do     |
-|           [Stepik](https://stepik.org/course/91/)            | Ликбез по дискретной математике            |     To Do     |
-|           [Stepik](https://stepik.org/course/2461)           | Линейная алгебра                           |     To Do     |
+|                             URL                              | Title                                      | Status |
+| :----------------------------------------------------------: | ------------------------------------------ | :----: |
+| [Coursera](https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs) | Discrete Math and Analyzing Social Graphs  | To Do  |
+| [Coursera](https://www.coursera.org/learn/lineynaya-algebra) | Линейная алгебра и аналитическая геометрия | To Do  |
+| [Coursera](https://www.coursera.org/learn/algebra-lineynaya) | Линейная алгебра (Linear Algebra)          | To Do  |
+|           [Stepik](https://stepik.org/course/91/)            | Ликбез по дискретной математике            | To Do  |
+|           [Stepik](https://stepik.org/course/2461)           | Линейная алгебра                           | To Do  |
 
 ### Statistics & Probability theory
 
@@ -254,22 +243,6 @@ My roadmap to study Data Science.
 
 # Visualization
 
-### D3
-
-#### Courses
-
-|                            URL                             | Title                                            | Status |
-| :--------------------------------------------------------: | ------------------------------------------------ | :----: |
-|     [Udemy](https://www.udemy.com/course/d3jsbasics/)      | D3.js Data Visualization Fundamentals - Hands On | To Do  |
-| [Kaggle](https://www.kaggle.com/learn/data-visualization)  | Data Visualization                               | To Do  |
-| [Kaggle](https://www.kaggle.com/learn/geospatial-analysis) | Geospatial Analysis                              | To Do  |
-
-#### Books
-
-| Title                |      Author       | Status |
-| -------------------- | :---------------: | :----: |
-| D3 for the Impatient | Philipp K. Janert | To Do  |
-
 ### Tableau
 
 #### Courses
@@ -285,5 +258,3 @@ My roadmap to study Data Science.
 |                             URL                              | Title                                                        | Status |
 | :----------------------------------------------------------: | ------------------------------------------------------------ | :----: |
 | [Coursera](https://www.coursera.org/learn/learning-how-to-learn) | Learning How to Learn: Powerful mental tools to help you master tough subjects | To Do  |
-
-Сдать IELS, и выучить немецкий
